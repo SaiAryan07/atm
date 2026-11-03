@@ -1,0 +1,11 @@
+account_no,name,pin,balance,blocked
+1000000001,Sai Aryan,1234,7600.0,False
+1000000002,Ravi Kumar,4321,20400.0,False
+1000000003,Priya Sharma,1111,100.0,False
+1000000004,Anil Reddy,2580,5200.0,False
+1000000005,Sneha Rao,7788,8600.0,False
+1000000006,Kiran Patel,9090,14500.0,False
+1000000007,Meena Iyer,3141,20700.0,False
+1000000008,Rahul Verma,5566,2300.0,False
+1000000009,Divya Nair,1357,1600.0,False
+1000000010,Arjun Singh,2468,24200.0,False
